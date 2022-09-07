@@ -10,17 +10,21 @@ learn github basics and markdown
 ---
 
 **Жирний (Bold)**
+
 *Курсив (Italic)*
 ---
 
 **Посилання (Link)**
+
 [title](https://www.example.com)
 
 **Зображення**
+
 ![alt text](image.jpg)
 ---
 
 >Цитата (Blockquote)
+
 >Розбійник за правду стояти не буде
 ---
 
@@ -32,7 +36,7 @@ I need to highlight these ==very important words==.
 ---
 
 `Code`
-``` html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
