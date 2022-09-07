@@ -36,6 +36,7 @@ learn github basics and markdown
 **Виділення (Highlight)**
 
 I need to highlight these ==very important words==.
+
 ---
 
 `Code`
@@ -88,12 +89,12 @@ term
 : definition
 ---
 
-Підрядковий текст (Subscript)
+**Підрядковий текст (Subscript)**
 
 H~2~O
----
 
-Верхній індекс (Superscript)
+
+**Верхній індекс (Superscript)**
 
 X^2^
----
+
