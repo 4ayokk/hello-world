@@ -10,7 +10,7 @@ learn github basics and markdown
 
 ---
 
-** Жирний (Bold) **
+** Жирний (Bold) ** \n
 * Курсив (Italic) *
 ---
 
