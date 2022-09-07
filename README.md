@@ -94,8 +94,16 @@ term
 
 H~2~O
 
+---
 
 **Верхній індекс (Superscript)**
 
 X^2^
-goodbuy
+
+
+---
+
+**Task List**
+- [x] Write the press release
+	- [ ] Update  website
+	- [ ] Contact  media
