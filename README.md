@@ -1,4 +1,5 @@
 # hello-world
+
 learn github basics and markdown
 
 Горизонтальна лінія (Horizontal Rule)
@@ -99,10 +100,10 @@ H~2~O
 
 X^2^
 
+
 ---
 
 **Task List**
 - [x] Write the press release
-	- [ ] Update the website
-	- [ ] Contact the media
----
+	- [ ] Update  website
+	- [ ] Contact  media
