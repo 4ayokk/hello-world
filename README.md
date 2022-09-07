@@ -17,6 +17,8 @@ learn github basics and markdown
 **Посилання (Link)**
 
 [title](https://www.example.com)
+<https://www.markdownguide.org>
+<fake@example.com>
 
 **Зображення**
 
@@ -61,6 +63,11 @@ I need to highlight these ==very important words==.
 - First item
 - Second item
 - Third item
+
+**Task List**
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 ---
 
 **Виноска**
