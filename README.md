@@ -28,10 +28,11 @@ learn github basics and markdown
 >Розбійник за правду стояти не буде
 ---
 
-Закреслення (Strikethrough)
+**Закреслення (Strikethrough)**
 ~~The world is flat.~~
 
-Виділення (Highlight)
+**Виділення (Highlight)**
+
 I need to highlight these ==very important words==.
 ---
 
@@ -62,25 +63,28 @@ I need to highlight these ==very important words==.
 - Third item
 ---
 
-
-
 **Виноска**
+
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 ---
 
 **Заголовковий ідентифікатор (Heading id)**
+
 ### My Great Heading {#custom-id}
 ---
 
 **Словник (Definition List)**
+
 term
 : definition
 ---
 
 Підрядковий текст (Subscript)
 H~2~O
+---
 
 Верхній індекс (Superscript)
 X^2^
+---
