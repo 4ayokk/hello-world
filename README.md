@@ -7,22 +7,21 @@ learn github basics and markdown
 # Заголовок H1
 ## H2
 ### h3 і аж до h6
-
 ---
 
-** Жирний (Bold) ** \n
-* Курсив (Italic) *
+**Жирний (Bold)**
+*Курсив (Italic)*
 ---
 
-** Посилання (Link) **
+**Посилання (Link)**
 [title](https://www.example.com)
 
-** Зображення **
+**Зображення**
 ![alt text](image.jpg)
 ---
 
-> Цитата (Blockquote)
-> Розбійник за правду стояти не буде
+>Цитата (Blockquote)
+>Розбійник за правду стояти не буде
 ---
 
 Закреслення (Strikethrough)
@@ -33,7 +32,7 @@ I need to highlight these ==very important words==.
 ---
 
 `Code`
-```
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,12 +47,12 @@ I need to highlight these ==very important words==.
 ```
 ---
 
-** Нумерований Список**
+**Нумерований Список**
 1. First item
 2. Second item
 3. Third item
 
-** Не Нумерований Список**
+**Не Нумерований Список**
 - First item
 - Second item
 - Third item
@@ -61,17 +60,17 @@ I need to highlight these ==very important words==.
 
 
 
-** Виноска **
+**Виноска**
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 ---
 
-** Заголовковий ідентифікатор (Heading id) **
+**Заголовковий ідентифікатор (Heading id)**
 ### My Great Heading {#custom-id}
 ---
 
-** Словник (Definition List) **
+**Словник (Definition List)**
 term
 : definition
 ---
